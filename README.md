@@ -14,7 +14,7 @@
 - 📫 How to reach me *rajatkumar12788@gmail.com*
 
 ### 📄 Resume
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue)](https://github.com/rajat2229/rajat2229/raw/main/Resume_Rajat_Kumar.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue)](https://github.com/rajat2229/rajat2229/raw/main/Rajat_Kumar_Resume.pdf)
 
 
 
