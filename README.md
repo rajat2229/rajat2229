@@ -79,7 +79,7 @@
 - CSS
 - JavaScript
 - SQL
-- Data Structures & Algorithms (Java)
+- Data Structures & Algorithms (Java, C++)
 - Git
 - GitHub
 
