@@ -118,6 +118,14 @@
 
 ### 🚀 Projects
 
+#### 🛍️ Zepto Console Application
+
+**Core Java | OOP | Collections**
+
+* Developed a console-based grocery shopping application inspired by Zepto.
+* Implemented a modular multi-class architecture using Object-Oriented Programming.
+* Added features including product categories, cart management, quantity updates, discounts, and checkout.
+
 #### 🛒 Shop-Top — E-Commerce Website
 
 **MERN Stack**
@@ -134,13 +142,6 @@
 * Created an intuitive interface to help users plan their leisure trips.
 * Built the application from scratch using HTML, CSS, and JavaScript.
 
-#### 🛍️ Zepto Console Application
-
-**Core Java | OOP | Collections**
-
-* Developed a console-based grocery shopping application inspired by Zepto.
-* Implemented a modular multi-class architecture using Object-Oriented Programming.
-* Added features including product categories, cart management, quantity updates, discounts, and checkout.
 
 ---
 ### 🏆 Achievements
@@ -198,4 +199,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajat2229" alt="GitHub Streak"/>
 </p>
+
+
 
